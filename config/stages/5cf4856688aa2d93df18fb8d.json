@@ -1,0 +1,17 @@
+{
+  "containerId": "5cf434db88aa2d93df18fb80",
+  "title": "Approve Tokens",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "id": "5cf4856688aa2d93df18fb8d",
+  "type": "CodeStage",
+  "language": "solidity",
+  "languageVersion": "0.4.19",
+  "testFramework": "truffle_with_mocha",
+  "codeFileIds": [
+    "5cf4856688aa2d93df18fb8e",
+    "5cf4856688aa2d93df18fb8f"
+  ],
+  "position": 3
+}

@@ -1,0 +1,17 @@
+{
+  "containerId": "5cf434db88aa2d93df18fb80",
+  "title": "ERC20 -- Initialize varibales",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "id": "5cf4850488aa2d93df18fb85",
+  "type": "CodeStage",
+  "language": "solidity",
+  "languageVersion": "0.4.19",
+  "testFramework": "truffle_with_mocha",
+  "codeFileIds": [
+    "5cf4850488aa2d93df18fb86",
+    "5cf4850488aa2d93df18fb87"
+  ],
+  "position": 1
+}
